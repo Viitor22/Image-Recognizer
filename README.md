@@ -26,7 +26,7 @@ The model is built using deep learning techniques and trained on a dataset conta
 
 ### 🛠️ Technologies Used
 - Python
-- TensorFlow/Keras or PyTorch
+- PyTorch
 - NumPy & Pandas
 - Matplotlib
 
@@ -60,7 +60,7 @@ O modelo é construído utilizando técnicas de aprendizado profundo e treinado 
 
 ### 🛠️ Tecnologias Utilizadas
 - Python
-- TensorFlow/Keras ou PyTorch
+- PyTorch
 - NumPy & Pandas
 - Matplotlib
 
